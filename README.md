@@ -28,9 +28,13 @@ ping.php
 
 Test the reachability of a host.
 
+`php ping.php [-n] destination`
+
 
 traceroute.php
 ==============
 
 Display the route to a host.
+
+`php traceroute.php [-n] destination`
 
